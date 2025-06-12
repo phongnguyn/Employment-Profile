@@ -2,9 +2,9 @@
 body {
     background-color: #1e1e2e;
 }
-* {
-  color: white; text-decoration: none;
-  font-family: sans-serif;
+a, p, h2, h3 {
+  color: white; 
+  font-family: 'Segoe WPC';
 }
 </style>
 
