@@ -1,3 +1,9 @@
+<style>
+body {
+    background-color: #1e1e2e;
+}
+</style>
+
 <div style="display: flex; align-items: flex-start; gap: 2rem;">
 
   <!-- Sidebar -->
