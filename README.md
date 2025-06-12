@@ -2,6 +2,9 @@
 body {
     background-color: #1e1e2e;
 }
+a {
+  color: white; text-decoration: none;
+}
 </style>
 
 <div style="display: flex; align-items: flex-start; gap: 2rem;">
@@ -10,23 +13,23 @@ body {
   <div style="position: sticky; top: 0; max-width: 200px; flex-shrink: 0;">
     <h3>📋 Contents</h3>
     <ul style="list-style: none;">
-      <li><a style="color: white; text-decoration: none;" href="#activities"><h3>Activities</h3></a></li>
+      <li><a href="#activities"><h3>Activities</h3></a></li>
       <ul style="list-style: none;">
-        <li><a style="color: white; text-decoration: none;" href="#1"># 1</a></li>
-        <li><a style="color: white; text-decoration: none;" href="#2"># 2</a></li>
-        <li><a style="color: white; text-decoration: none;" href="#3"># 3</a></li>
-        <li><a style="color: white; text-decoration: none;" href="#4"># 4</a></li>
-        <li><a style="color: white; text-decoration: none;" href="#5"># 5</a></li>
-        <li><a style="color: white; text-decoration: none;" href="#6"># 6</a></li>
-        <li><a style="color: white; text-decoration: none;" href="#7"># 7</a></li>
-        <li><a style="color: white; text-decoration: none;" href="#8"># 8</a></li>
-        <li><a style="color: white; text-decoration: none;" href="#9"># 9</a></li>
-        <li><a style="color: white; text-decoration: none;" href="#10"># 10</a></li>
+        <li><a href="#1"># 1</a></li>
+        <li><a href="#2"># 2</a></li>
+        <li><a href="#3"># 3</a></li>
+        <li><a href="#4"># 4</a></li>
+        <li><a href="#5"># 5</a></li>
+        <li><a href="#6"># 6</a></li>
+        <li><a href="#7"># 7</a></li>
+        <li><a href="#8"># 8</a></li>
+        <li><a href="#9"># 9</a></li>
+        <li><a href="#10"># 10</a></li>
       </ul>
-      <li><a style="color: white; text-decoration: none;" href="#reflection"><h3>Reflection</h3></a></li>
+      <li><a href="#reflection"><h3>Reflection</h3></a></li>
       <ul style="list-style: none;">
-        <li><a style="color: white; text-decoration: none;" href="#situation-1">Situation 1</a></li>
-        <li><a style="color: white; text-decoration: none;" href="#situation-2">Situation 2</a></li>
+        <li><a href="#situation-1">Situation 1</a></li>
+        <li><a href="#situation-2">Situation 2</a></li>
       </ul>
     </ul>
   </div>
