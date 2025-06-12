@@ -2,8 +2,9 @@
 body {
     background-color: #1e1e2e;
 }
-a {
+* {
   color: white; text-decoration: none;
+  font-family: sans-serif;
 }
 </style>
 
